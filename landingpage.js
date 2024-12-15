@@ -9,7 +9,7 @@ const LandingPage = () => {
         <View style={styles.container}>
             {/* Menggunakan ImageBackground sebagai background */}
             <ImageBackground
-                source={require('./assets/UniLocator2.png')}  // Ganti dengan path gambar Anda
+                source={require('./assets/unilocator1.png')}  // Ganti dengan path gambar Anda
                 style={styles.background}
                 imageStyle={{ borderRadius: 0 }} // No rounded corners for the background image
             >

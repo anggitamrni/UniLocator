@@ -5,7 +5,8 @@
     "email": "info@ugm.ac.id",
     "address": "Jalan Sosio Humaniora No. 1, Yogyakarta",
     "latitude": -7.770742215022387, 
-    "longitude": 110.37763277795527
+    "longitude": 110.37763277795527,
+    "logo_url": "/images/ugm.png"
   },
   {
     "no": 2,
@@ -41,7 +42,7 @@
   },
   {
     "no": 6,
-    "name": "Universitas Atma Jaya Yogyakarta",
+    "name": "Universitas Islam Negeri Sunan Kalijaga",
     "email": "info@uajy.ac.id",
     "address": "Jalan Babarsari No. 43, Yogyakarta",
     "latitude": -7.780219027999442, 

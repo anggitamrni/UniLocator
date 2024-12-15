@@ -7,6 +7,11 @@ import { faUniversity } from '@fortawesome/free-solid-svg-icons';
 const CampusList = () => {
     return (
         <View style={styles.container}>
+            {/* Header Daftar Kampus */}
+            <View style={styles.header}>
+                <Text style={styles.headerText}>Campus</Text>
+            </View>
+
             <FlatList
                 data={Datacampus}
                 renderItem={({ item }) => (
@@ -44,7 +49,20 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: '#89A8B2', // Warna latar belakang yang lebih lembut
-        paddingTop: 20,
+    },
+    // Styling untuk header
+    header: {
+        backgroundColor: '#243642',  // Warna ungu yang lembut untuk header
+        paddingVertical: 10,  // Memperbesar tinggi header
+        alignItems: 'center',
+        justifyContent: 'center',
+        elevation: 10,  // Memberikan efek bayangan pada header
+    },
+    headerText: {
+        fontSize: 20,
+        fontWeight: 'bold',
+        color: '#FFF',
+        textAlign: 'center', // Menyelaraskan teks ke tengah
     },
     avatar: {
         borderRadius: 40, // Ukuran avatar yang lebih kecil dan lebih rapi
