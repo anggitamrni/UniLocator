@@ -9,11 +9,11 @@ Uni Locator adalah aplikasi berbasis React Native yang dirancang untuk membantu 
 
 - **_Visual Studio Code_:** Sebagai editor kode, terminal terintegrasi, ekstensi, dan debuggin project Uni Locater.
 - **_Android Studio_:** Sebagai emulator android untuk menjalankan aplikasi Uni Locater.
-- - **_Javascript_:** Memberikan interaktivitas, menangani logika aplikasi, serta berintegrasi dengan berbagai API dan sistem backend.
-- - **_Node.js_:** Server-side platform yang mendukung berbagai fungsi penting untuk aplikasi berbasis React Native.
+- **_Javascript_:** Memberikan interaktivitas, menangani logika aplikasi, serta berintegrasi dengan berbagai API dan sistem backend.
+- **_Node.js_:** Server-side platform yang mendukung berbagai fungsi penting untuk aplikasi berbasis React Native.
 - **_React Native_:** Framework utama untuk membangun aplikasi lintas platform (Android dan iOS).
 - **_React Navigation_:** Untuk menangani navigasi antar halaman.
-- - **_Font Awesome_:** Meningkatkan antarmuka pengguna (UI) dengan menambahkan ikon-ikon yang dapat memperjelas navigasi.
+- **_Font Awesome_:** Meningkatkan antarmuka pengguna (UI) dengan menambahkan ikon-ikon yang dapat memperjelas navigasi.
 - **_Mapbox / Google Maps_:** Untuk menampilkan peta interaktif dan lokasi kampus.
 - **_Leaflet.js_:** Library JavaScript untuk menangani peta interaktif.
 - **_JSON_:** Untuk menyimpan data kampus yang ditambahkan oleh pengguna.
