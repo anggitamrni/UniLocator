@@ -39,7 +39,7 @@ Uni Locator adalah aplikasi berbasis React Native yang dirancang untuk membantu 
 
 - Google Maps: Data peta dan lokasi kampus yang terdaftar.
 - LLDIKTI: Data kampus yang terdaftar di Lembaga Layanan Pendidikan Tinggi Wilayah Daerah Istimewa Yogyakarta.
-- Input Pengguna: Pengguna dapat menambahkan data kampus yang belum terdaftar dengan informasi seperti nama, alamat, dan koordinat.
+- Input Pengguna: Pengguna dapat menambahkan data kampus yang belum terdaftar dengan informasi seperti nama, alamat,foto dan koordinat.
 
 ## Tangkapan Layar Komponen Penting Produk
 1. **Antarmuka Utama:**
