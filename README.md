@@ -12,9 +12,9 @@ Uni Locator adalah aplikasi berbasis React Native yang dirancang untuk membantu 
   
 ## Sumber Data
 
-- Data informasi wisata (https://www.pariwisata.denpasarkota.go.id/).
-- Data geospasial diakses melalui [InaGeoportal](https://www.inageoportal.id/), menyediakan informasi geospasial Indonesia.
-- Data titik lokasi diperoleh dari google maps (https://www.google.com/maps), untuk informasi longitude dan latitude.
+- Google Maps: Data peta dan lokasi kampus yang terdaftar.
+- LLDIKTI: Data kampus yang terdaftar di Lembaga Layanan Pendidikan Tinggi Wilayah.
+- Input Pengguna: Pengguna dapat menambahkan data kampus yang belum terdaftar dengan informasi seperti nama, alamat, dan koordinat.
 
 ## Tangkapan Layar Komponen Penting Produk
 
