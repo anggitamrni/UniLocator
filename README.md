@@ -12,7 +12,11 @@ Uni Locator adalah aplikasi berbasis React Native yang dirancang untuk membantu 
 - **_Mapbox / Google Maps_:** Untuk menampilkan peta interaktif dan lokasi kampus.
 - **_Leaflet.js_:** Library JavaScript untuk menangani peta interaktif.
 - **_JSON_:** Untuk menyimpan data kampus yang ditambahkan oleh pengguna.
-  
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/635db393-71a0-46d9-a42d-181e5f67b61e" alt="logounilocater" width="200" height="200">
+</div>
+
 ## Sumber Data
 
 - Google Maps: Data peta dan lokasi kampus yang terdaftar.
