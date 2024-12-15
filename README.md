@@ -19,6 +19,10 @@ Uni Locator adalah aplikasi berbasis React Native yang dirancang untuk membantu 
 - **_JSON_:** Untuk menyimpan data kampus yang ditambahkan oleh pengguna.
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/11d71cc0-c54c-4610-af77-7b7dde8954b7" alt="logounilocater" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/0e4bae45-19ee-4b2c-b1c7-a09ec0fe9d0e" alt="logounilocater" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/2452c67c-0001-42eb-87eb-ac32540067d1" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/50e271f9-e674-4b1b-a944-130a7fe4820b" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/635db393-71a0-46d9-a42d-181e5f67b61e" alt="logounilocater" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/966b1c68-f60b-48be-b453-17fa0485e220" alt="logounilocater" width="50" height="50">
 </div>
