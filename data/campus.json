@@ -1,0 +1,284 @@
+[
+  {
+    "no": 1,
+    "name": "Universitas Gadjah Mada",
+    "email": "info@ugm.ac.id",
+    "address": "Jalan Sosio Humaniora No. 1, Yogyakarta",
+    "latitude": -7.770742215022387, 
+    "longitude": 110.37763277795527
+  },
+  {
+    "no": 2,
+    "name": "Universitas Islam Indonesia",
+    "email": "info@uii.ac.id",
+    "address": "Jalan Kaliurang Km 14.5, Yogyakarta",
+    "latitude": -7.687044489970374, 
+    "longitude": 110.4142966445156
+  },
+  {
+    "no": 3,
+    "name": "Universitas Negeri Yogyakarta",
+    "email": "info@uny.ac.id",
+    "address": "Jalan Colombo No. 1, Yogyakarta",
+    "latitude": -7.773537525437802, 
+    "longitude": 110.38631010864181
+  },
+  {
+    "no": 4,
+    "name": "Universitas Sanata Dharma",
+    "email": "info@usd.ac.id",
+    "address": "Jalan Affandi No. 1, Yogyakarta",
+    "latitude": -7.775493816942825, 
+    "longitude": 110.39015665096913
+  },
+  {
+    "no": 5,
+    "name": "Universitas Kristen Duta Wacana",
+    "email": "info@ukdw.ac.id",
+    "address": "Jalan Dr. Wahidin No. 5, Yogyakarta",
+    "latitude": -7.785698111561274, 
+    "longitude": 110.37833302214167
+  },
+  {
+    "no": 6,
+    "name": "Universitas Atma Jaya Yogyakarta",
+    "email": "info@uajy.ac.id",
+    "address": "Jalan Babarsari No. 43, Yogyakarta",
+    "latitude": -7.780219027999442, 
+    "longitude": 110.41483692213774
+  },
+  {
+    "no": 7,
+    "name": "Universitas Muhammadiyah Yogyakarta",
+    "email": "info@umy.ac.id",
+    "address": "Jalan Lingkar Selatan No. 1, Yogyakarta",
+    "latitude": -7.810642801923842, 
+    "longitude": 110.32187699332826
+  },
+  {
+    "no": 8,
+    "name": "Universitas Proklamasi 45 Yogyakarta",
+    "email": "info@up45.ac.id",
+    "address": "Jalan Proklamasi No. 45, Yogyakarta",
+    "latitude": -7.774098735046373, 
+    "longitude": 110.41592129328596
+  },
+  {
+    "no": 9,
+    "name": "Universitas Amikom Yogyakarta",
+    "email": "info@amikom.ac.id",
+    "address": "Jalan Ring Road Utara, Yogyakarta",
+    "latitude": -7.759809224709861, 
+    "longitude": 110.40904073562905
+  },
+  {
+    "no": 10,
+    "name": "Universitas Cokroaminoto Yogyakarta",
+    "email": "info@ucy.ac.id",
+    "address": "Jalan Perintis Kemerdekaan Gambiran-Umbulharjo ",
+    "latitude": -7.819778651207347,  
+    "longitude": 110.39292910863848
+  },
+  {
+    "no": 11,
+    "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+    "email": "info@upnvj.ac.id",
+    "address": "Jalan Laksda Adisucipto No. 20, Yogyakarta",
+    "latitude": -7.762041150440458, 
+    "longitude": 110.40932707980463
+  },
+  {
+    "no": 12,
+    "name": "Institut Seni Indonesia Yogyakarta",
+    "email": "info@isi.ac.id",
+    "address": "Jalan Suryatmajan No. 1, Yogyakarta",
+    "latitude": -7.7962457,
+    "longitude": 110.3695686
+  },
+  {
+    "no": 13,
+    "name": "Universitas Sarjanawiyata Tamansiswa",
+    "email": "humas@ustjogja.ac.id",
+    "address": "Jalan Batikan, UH-III/1043, Kel. Tahunan, Kec. Umbulharjo",
+    "latitude": -7.808538959718208, 
+    "longitude": 110.38174672214059
+  },
+  {
+    "no": 14,
+    "name": "Universitas Janabadra",
+    "email": "info@janabadra.ac.id",
+    "address": "Jalan Tentara Rakyat Mataram 55",
+    "latitude": -7.783812530391025,  
+    "longitude": 110.35740665763325
+  },
+  {
+    "no": 15,
+    "name": "Universitas Widya Mataram",
+    "email": "info@widyamataram.ac.id",
+    "address": "Ndalem Mangkubumen KT III/237 Yogyakarta",
+    "latitude": -7.807448647440679,   
+    "longitude": 110.35841692213721
+  },
+  {
+    "no": 16,
+    "name": "Universitas Kristen Immanuel",
+    "email": "humas@ukrimuniversity.ac.id",
+    "address": "Jalan Solo KM 11",
+    "latitude": -7.774799875029441,    
+    "longitude": 110.44946436446209
+  },
+  {
+    "no": 17,
+    "name": "Universitas Ahmad Dahlan",
+    "email": "info@uad.ac.id",
+    "address": "Jalan Kapas No 9 Semaki",
+    "latitude": -7.83294792433893,     
+    "longitude": 110.38305146261737
+  },
+  {
+    "no": 18,
+    "name": "Universitas PGRI Yogyakarta",
+    "email": "info@upy.ac.id",
+    "address": "Jalan PGRI Sonosewu No 117",
+    "latitude": -7.806099211737074,      
+    "longitude": 110.34098253562848
+  },
+  {
+    "no": 19,
+    "name": "Universitas Gunung Kidul",
+    "email": "univ_gunungkidul@ugk.ac.id",
+    "address": "Jalan KH Agus Salim No 170 Wonosari, Gunungkidul, D.I. Yogyakarta",
+    "latitude": -7.953383438620723,      
+    "longitude": 110.5895080644701
+  },
+  {
+    "no": 20,
+    "name": "Universitas Teknologi Yogyakarta",
+    "email": "info@uty.ac.id",
+    "address": "Jalan Ring Road Utara Jombor Sleman",
+    "latitude": -7.747257658314065,       
+    "longitude": 110.35541083563481
+  },
+  {
+    "no": 21,
+    "name": "Universitas Mercu Buana Yogyakarta",
+    "email": "humas@mercubuana-yogya.ac.id",
+    "address": "Jalan Wates KM 10 Yogyakarta",
+    "latitude": -7.763056172919899,       
+    "longitude": 110.39455595096803
+  },
+  {
+    "no": 22,
+    "name": "Universitas Respati Yogyakarta",
+    "email": "unriyo@respati.ac.id",
+    "address": "Jl Laksda Adisutjipto KM 6,5 Sleman",
+    "latitude": -7.746277550493319,        
+    "longitude": 110.43367413562213
+  },
+  {
+    "no": 23,
+    "name": "Universitas Alma Ata",
+    "email": "admin@almaata.ac.id",
+    "address": "Jalan Ringroad Barat Daya No 1 Tamantirto",
+    "latitude": -7.818250476125549,        
+    "longitude": 110.32452309329675
+  },
+  {
+    "no": 24,
+    "name": "Universitas Aisyiyah Yogyakarta",
+    "email": "info@unisayogya.ac.id",
+    "address": "Jalan Ring Road Barat No. 63 Mlangi Nogotirto",
+    "latitude": -7.768143462102967,        
+    "longitude": 110.33369606447754
+  },
+  {
+    "no": 25,
+    "name": "Universitas Nahdlatul Ulama Yogyakarta",
+    "email": "info@unu-jogja.ac.id",
+    "address": "Jl Lowanu No 47, Sorosutan, Umbulharjo, Yogyakarta, D.I.",
+    "latitude": -7.787636681634384,        
+    "longitude": 110.33052562212839
+  },
+  {
+    "no": 26,
+    "name": "Universitas Siber Muhammadiyah",
+    "email": "humas@sibermu.ac.id",
+    "address": "Jl. HOS Cokroaminoto No. 17 Pakuncen Wirobrajan",
+    "latitude": -7.7994516675096035,        
+    "longitude": 110.35098430678362
+  },
+  {
+    "no": 27,
+    "name": "Universitas AKPRIND Indonesia",
+    "email": "info@akprind.ac.id",
+    "address": "Jalan Kalisahak No 28 Komplek Balapan",
+    "latitude": -7.784585440479419,        
+    "longitude": 110.38557774911945
+  },
+  {
+    "no": 28,
+    "name": "Institut Pertanian (Intan) Yogyakarta",
+    "email": "intaninstitut@gmail.com",
+    "address": "Jalan Magelang KM 5,6",
+    "latitude": -7.755775093087902,         
+    "longitude": 110.36319543191428
+  },
+  {
+    "no": 29,
+    "name": "Institut Pertanian Stiper",
+    "email": "instiper@instiperjogja.ac.id",
+    "address": "Jalan Nangka II Maguwoharjo Depok Sleman Daerah Istimewa Yogyakarta",
+    "latitude": -7.761118941677365,         
+    "longitude": 110.4246559932815
+  },
+  {
+    "no": 30,
+    "name": "Institut Teknologi Yogyakarta",
+    "email": "info@ity.ac.id",
+    "address": "Jalan Janti KM 4 Gedongkuning",
+    "latitude": -7.77312384624004,         
+    "longitude": 110.41630459330418
+  },
+  {
+    "no": 31,
+    "name": "Sekolah Tinggi Ilmu Ekonomi YKPN",
+    "email": "stieykpn@stieykpn.ac.id",
+    "address": "Jalan Seturan Catur Tunggal Depok Sleman",
+    "latitude": -7.768855714255335,         
+    "longitude": 110.41024282212868
+  },
+  {
+    "no": 32,
+    "name": "Sekolah Tinggi Ilmu Ekonomi Widya Wiwaha",
+    "email": "info@stieww.ac.id",
+    "address": "Jalan Lowanu Sorosutan UH VI/20, YOGYAKARTA",
+    "latitude": -7.82197174882415,         
+    "longitude": 110.37750102211378
+  },
+  {
+    "no": 33,
+    "name": "Sekolah Tinggi Ilmu Ekonomi Nusa Megarkencana",
+    "email": "nusamegarkencana@gmail.com",
+    "address": "Jalan AM Sangaji No 49-51",
+    "latitude": -7.775633447184484,         
+    "longitude": 110.36759355097412
+  },
+  {
+    "no": 34,
+    "name": "Sekolah Tinggi Pembangunan Masyarakat Desa APMD",
+    "email": "info@apmd.ac.id",
+    "address": "Jalan Timoho No 317 Yogyakarta",
+    "latitude": -7.791279023356892,         
+    "longitude": 110.39407356449551
+  },
+  {
+    "no": 35,
+    "name": "Sekolah Tinggi Ilmu Ekonomi Isti Ekatana Upaweda",
+    "email": "stieieupaweda@gmail.com",
+    "address": "Jalan Hayam Wuruk No 20",
+    "latitude": -7.794737287160338,         
+    "longitude": 110.37272319329678
+  }
+  
+  
+]
