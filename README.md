@@ -43,7 +43,7 @@ Uni Locator adalah aplikasi berbasis React Native yang dirancang untuk membantu 
 
 ## Tangkapan Layar Komponen Penting Produk
 1. **Antarmuka Utama:**
-   ![landing page](https://github.com/user-attachments/assets/fd661fb8-aa34-416f-bb44-4a9974136633)
+   ![image](https://github.com/user-attachments/assets/5ad54a48-a079-459a-8a24-15bc0418c78e)
 
 2. **Halaman Peta Kampus:**
    ![mappage](https://github.com/user-attachments/assets/ccf55a71-9d8c-4709-a79a-6d98f13b31fb)
