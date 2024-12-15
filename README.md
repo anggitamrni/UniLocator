@@ -52,7 +52,7 @@ Uni Locator adalah aplikasi berbasis React Native yang dirancang untuk membantu 
    ![campus](https://github.com/user-attachments/assets/59e531b2-4f48-4a8b-917d-fd3723fa1fa9)
 
 4. **Halaman Tambah Data Kampus:**
-   ![Screenshot_20241216_010111_UniLocater](https://github.com/user-attachments/assets/765adef4-ef2c-4218-9544-bdf4235aeab9)
+   ![Screenshot_20241216_010337_UniLocater](https://github.com/user-attachments/assets/93df3a94-a027-445d-a013-64bafdce13ff)
 
 6. **Halaman Profil:**
    ![profil](https://github.com/user-attachments/assets/6bcb9700-b9d0-473a-873c-567b4169e2f6)
