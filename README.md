@@ -42,3 +42,17 @@ Uni Locator adalah aplikasi berbasis React Native yang dirancang untuk membantu 
 - Input Pengguna: Pengguna dapat menambahkan data kampus yang belum terdaftar dengan informasi seperti nama, alamat, dan koordinat.
 
 ## Tangkapan Layar Komponen Penting Produk
+1. **Antarmuka Utama:**
+   ![landing page](https://github.com/user-attachments/assets/fd661fb8-aa34-416f-bb44-4a9974136633)
+
+2. **Halaman Peta Kampus:**
+   
+
+3. **Halaman Data Kampus:**
+   ![campus](https://github.com/user-attachments/assets/59e531b2-4f48-4a8b-917d-fd3723fa1fa9)
+
+4. **Halaman Tambah Data Kampus:**
+   ![adddata](https://github.com/user-attachments/assets/69921952-15ae-4a7b-8064-b02de378e31b)
+
+6. **Halaman Profil:**
+   ![profil](https://github.com/user-attachments/assets/6bcb9700-b9d0-473a-873c-567b4169e2f6)
